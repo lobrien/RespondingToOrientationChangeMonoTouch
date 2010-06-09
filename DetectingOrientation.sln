@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectingOrientation", "DetectingOrientation\DetectingOrientation.csproj", "{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Release|iPhone.Build.0 = Release|iPhone
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{04AC2370-D3D9-4AA5-9A3F-BFB3058C49B3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DetectingOrientation\DetectingOrientation.csproj
+	EndGlobalSection
+EndGlobal
